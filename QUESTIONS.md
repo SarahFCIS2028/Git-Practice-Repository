@@ -15,16 +15,19 @@ revision.
 branch name you plan to use.**
 
 > Your answer here.
+docs/add-my-name
 
 **2. What commit message format is required? Write the exact commit message
 you plan to use for your change.**
 
 > Your answer here.
+docs: add my name to contributors list
 
 **3. Does this project expect a linked issue before opening a PR, or is a PR
 description enough?**
 
 > Your answer here.
+he project expects the related issue to be linked in the PR description.
 
 ---
 
@@ -34,6 +37,10 @@ description enough?**
 is `origin` and which is `upstream`, and why does that distinction matter?**
 
 > Your answer here.
+origin   https://github.com/SarahFCIS2028/Git-Practice-Repository.git (fetch)
+origin   https://github.com/SarahFCIS2028/Git-Practice-Repository.git (push)
+upstream https://github.com/IbrahimYasserM/Practice-Repository.git (fetch)
+upstream https://github.com/IbrahimYasserM/Practice-Repository.g (push)
 
 ---
 
