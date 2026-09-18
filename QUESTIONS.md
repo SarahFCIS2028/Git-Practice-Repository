@@ -50,7 +50,11 @@ upstream https://github.com/IbrahimYasserM/Practice-Repository.g (push)
 follow the convention from `CONTRIBUTING.md`?**
 
 > Your answer here.
+1ce8d67 (HEAD -> docs/add-my-name) docs: add my name to contributors list
+3b30f00 (upstream/main, origin/main, origin/HEAD, main) Clarify task labeling in README
+f5ecf54 Revise task assignment instructions in README
 
+Yes,My commit message docs: add my name to contributors list follows the Conventional Commits format required by the project.
 ---
 
 ## Part 4 — After hitting the seeded merge conflict
@@ -58,11 +62,12 @@ follow the convention from `CONTRIBUTING.md`?**
 **6. What caused the conflict? Which file and lines were involved?**
 
 > Your answer here.
+The conflict was caused because both branches added a contributor in the same location in CONTRIBUTORS.md. The conflicting lines were the contributor entries for Sarah Ahmed and Mohammed Nasser.
 
 **7. How did you resolve it — what did you keep, remove, or combine, and why?**
 
 > Your answer here.
-
+I kept both contributor entries and removed the Git conflict markers. I kept both because both contributors should remain in the CONTRIBUTORS.md file.
 ---
 
 ## Part 5 — After opening your PR
